@@ -1,8 +1,6 @@
-test
-
-
-a = 5
-b= 6
+a = input ()
+b= input ()
 
 sum = a+b 
 
+print (sum)
